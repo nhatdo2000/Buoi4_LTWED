@@ -1,0 +1,45 @@
+body{
+	font-family:Arial;
+	font-size:11pt;
+	
+}
+th{
+	font-size:16pt;
+	background:blue;
+	color:#ffffff;
+}
+td{
+	padding:5px;
+	background:#e6e6fa;
+	
+	
+}
+select{
+	background:#87cefa;
+	border:1px dotted #ffd700;
+}
+input{
+	border:1px dotted #ffd700;
+	padding:5px;
+	background:#87cefa;
+	width:400px;
+}
+textarea{
+	background:#87cefa;
+	border:1px dotted #ffd700;
+}
+input:focus{
+	border:1px; solid #4169e1;
+	background: #90ee90;
+}
+button{
+	background:blue;
+	color:#ffffff;
+	border:	#00ff7f 1px solid;
+	padding:5px 10px;
+}
+table{
+	border-collapse:collapse;
+	border:1px solid #ff0000;
+	background:url(images/bgbottom_yellow.jpg) repeat-x left bottom;
+}
